@@ -1,6 +1,6 @@
 ## Python_case_study
 
-1. Case study from Udemy course "Machine Learning Bootcamp w języku Python cz. I"
-2.
+1. Case study z kursu Udemy "Machine Learning Bootcamp w języku Python cz. I" - rozpoznawanie liczb
+2. Case study z kursu Udemy "Machine Learning Bootcamp w języku Python cz. I" - rozpoznawanie obrazów
 3.
 4. 
